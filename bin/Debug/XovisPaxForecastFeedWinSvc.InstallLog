@@ -1,0 +1,206 @@
+﻿Installing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe assembly.
+Committing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe assembly.
+Installing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Installing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Uninstalling assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Uninstalling assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Installing service SvcXovisPaxForecastFeeder...
+Service SvcXovisPaxForecastFeeder has been successfully installed.
+Creating EventLog source SvcXovisPaxForecastFeeder in log Application...
+Committing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Uninstalling assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Removing EventLog source SvcXovisPaxForecastFeeder.
+Service SvcXovisPaxForecastFeeder is being removed from the system...
+Service SvcXovisPaxForecastFeeder was successfully removed from the system.
+Installing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+Installing service SvcXovisPaxForecastFeeder...
+Creating EventLog source SvcXovisPaxForecastFeeder in log Application...
+Rolling back assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+Restoring event log to previous state for source SvcXovisPaxForecastFeeder.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Uninstalling assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Removing EventLog source SvcXovisPaxForecastFeeder.
+Service SvcXovisPaxForecastFeeder is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Removing EventLog source SvcXovisPaxForecastFeeder.
+Warning: The source SvcXovisPaxForecastFeeder is not registered on the local machine.
+Service SvcXovisPaxForecastFeeder is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Installing service SvcXovisPaxForecastFeeder...
+Service SvcXovisPaxForecastFeeder has been successfully installed.
+Creating EventLog source SvcXovisPaxForecastFeeder in log Application...
+Committing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+Installing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+Installing service SvcXovisPaxForecastFeeder...
+Creating EventLog source SvcXovisPaxForecastFeeder in log Application...
+Rolling back assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+Restoring event log to previous state for source SvcXovisPaxForecastFeeder.
+Uninstalling assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+Removing EventLog source SvcXovisPaxForecastFeeder.
+Service SvcXovisPaxForecastFeeder is being removed from the system...
+Service SvcXovisPaxForecastFeeder was successfully removed from the system.
+Installing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+Installing service SvcXovisPaxForecastFeeder...
+Service SvcXovisPaxForecastFeeder has been successfully installed.
+Creating EventLog source SvcXovisPaxForecastFeeder in log Application...
+Committing assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+Uninstalling assembly 'O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.exe
+   logfile = O:\VS22-PaxForecast\Solution\PAXForeCastApp\XovisPaxForecastFeedWinSvc\bin\Debug\XovisPaxForecastFeedWinSvc.InstallLog
+Removing EventLog source SvcXovisPaxForecastFeeder.
+Service SvcXovisPaxForecastFeeder is being removed from the system...
+Service SvcXovisPaxForecastFeeder was successfully removed from the system.
