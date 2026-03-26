@@ -107,6 +107,7 @@ namespace XovisPaxForecastFeedWinSvc
                 {
                     cmd.Connection = conn;
                     cmd.CommandText = "PKG_AREADATA.INSERT_WAITTIME_DATA";
+                    cmd.CommandType = CommandType.StoredProcedure;
 
                     // Input parameter
                     OracleParameter pAreaId = new OracleParameter();
