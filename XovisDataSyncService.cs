@@ -177,9 +177,13 @@ namespace XovisPaxForecastFeedWinSvc
             foreach (var item in allAreaWaitTimeItems)
             {
                 var result = OracleDBHelper.InsertWaitTimeData(item);
-                if (result == null || result.AFFECTEDROWS == 0)
+                if (result == null || !string.IsNullOrEmpty(result.EXCEPTION))
                 {
-                    Log.Warning($"Failed to insert wait time data for AreaID: {item.AREAID}, TimeSlot: {item.TIMESLOT}", EventLogEntryType.Error);
+                    Log.Warning($"Failed to insert wait time data for AreaID: {item.AREAID}, TimeSlot: {item.TIMESLOT}. Exception: {result?.EXCEPTION}", EventLogEntryType.Error);
+                }
+                else
+                {
+                    Log.Information($"AreaID: {item.AREAID}, TimeSlot: {item.TIMESLOT} - {result.MESSAGE}");
                 }
             }
         }
